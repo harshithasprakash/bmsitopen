@@ -1,5 +1,4 @@
-x="palak"
-y=open("infinite","w+")
-while True :
-    y.write(x)
-y.close()
+str="my name is palak"
+print(str)
+string=input("enter:")
+print(string)
